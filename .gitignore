@@ -1,0 +1,52 @@
+# Gradle files
+.gradle/
+build/
+
+# Gradle wrapper files
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Java build tools
+*.jar
+*.war
+*.ear
+
+# Gradle-specific cache directories
+.gradle/
+build/
+
+# Native libraries (for LWJGL, if applicable)
+# These are typically handled by Gradle, so no need to track them in Git
+/native/
+
+# Temporary files created during build or IDE operations
+build/classes/
+build/generated/
+build/tmp/
+
+# IntelliJ IDEA specific directories
+.idea/modules/
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Miscellaneous
+*.swp
+*.bak
+*.out
